@@ -1,8 +1,8 @@
 FROM alpine/git:latest
 
-LABEL "maintainer"="Maximilian Held <info@maxheld.de>"
-LABEL "repository"="http://github.com/maxheld83/ghpages"
-LABEL "homepage"="http://github.com/maxheld83/ghpages"
+LABEL "maintainer"="JoelEllis"
+LABEL "repository"="http://github.com/JoelEllis/ghpages"
+LABEL "homepage"="http://github.com/JoelEllis/ghpages"
 
 LABEL "com.github.actions.name"="GitHub Pages Deploy"
 LABEL "com.github.actions.description"="Deploy static assets to GitHub Pages."
